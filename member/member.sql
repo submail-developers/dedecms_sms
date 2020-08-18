@@ -1,0 +1,1 @@
+ALTER TABLE `dede_member` ADD `phone` VARCHAR( 15 ) NOT NULL AFTER `uname` 
