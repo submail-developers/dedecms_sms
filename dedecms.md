@@ -54,7 +54,7 @@ How to use
 
 ![Submail](./markdown/2.png)
 
-[Github项目地址](https://github.com/submail-developers/ecshop_sms)&nbsp;&nbsp;&nbsp;[点击下载](https://github.com/submail-developers/ecshop_sms/archive/master.zip)
+[Github项目地址](https://github.com/submail-developers/dedecms_sms)&nbsp;&nbsp;&nbsp;[点击下载](https://github.com/submail-developers/dedecms_sms/archive/master.zip)
 
 
 
