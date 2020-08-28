@@ -7,6 +7,8 @@
 ------
 Dedecms  [官网地址](http://www.dedecms.com/)
 
+[V5.7SP2](https://github.com/submail-developers/dedecms_sms/archive/master.zip)
+
 How to use
 
 -	member/templets/js/reg_new.js
@@ -55,12 +57,3 @@ How to use
 ![Submail](./markdown/2.png)
 
 [Github项目地址](https://github.com/submail-developers/dedecms_sms)&nbsp;&nbsp;&nbsp;[点击下载](https://github.com/submail-developers/dedecms_sms/archive/master.zip)
-
-
-
-
-
-
-
-
-
